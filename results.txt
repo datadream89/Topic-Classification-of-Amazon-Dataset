@@ -1,0 +1,16 @@
+Topic #0: 
+say | company | year | work | new | take | time | make | like | also
+Topic #1: 
+home | buy | use | offer | ship | also | best | free | look | price
+Topic #2: 
+read | find | like | get | one | take | also | know | available | free
+Topic #3: 
+get | make | one | go | like | time | see | look | take | use
+Topic #4: 
+com | use | post | include | time | make | like | available | best | read
+Topic #5: 
+prime | free | deal | ship | day | get | offer | available | see | best
+Topic #6: 
+new | price | include | come | available | offer | one | also | make | get
+Topic #7: 
+post | december | com | best | ship | offer | price | deal | new | see

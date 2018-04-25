@@ -1,0 +1,430 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "en",
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Amazon",
+      "relevance": 0.921646,
+      "disambiguation": {
+        "subtype": [],
+        "name": "Amazon.com",
+        "dbpedia_resource": "http://dbpedia.org/resource/Amazon.com"
+      },
+      "count": 45
+    },
+    {
+      "type": "Company",
+      "text": "facebook",
+      "relevance": 0.577027,
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Facebook",
+        "dbpedia_resource": "http://dbpedia.org/resource/Facebook"
+      },
+      "count": 9
+    },
+    {
+      "type": "Company",
+      "text": "linkedin",
+      "relevance": 0.529846,
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "LinkedIn",
+        "dbpedia_resource": "http://dbpedia.org/resource/LinkedIn"
+      },
+      "count": 7
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "relevance": 0.505089,
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 12
+    },
+    {
+      "type": "Person",
+      "text": "vk",
+      "relevance": 0.503098,
+      "count": 7
+    },
+    {
+      "type": "Company",
+      "text": "Pinterest",
+      "relevance": 0.495677,
+      "count": 8
+    },
+    {
+      "type": "Company",
+      "text": "Google.",
+      "relevance": 0.392342,
+      "disambiguation": {
+        "subtype": [
+          "AcademicInstitution",
+          "AwardPresentingOrganization",
+          "OperatingSystemDeveloper",
+          "ProgrammingLanguageDeveloper",
+          "SoftwareDeveloper",
+          "VentureFundedCompany"
+        ],
+        "name": "Google",
+        "dbpedia_resource": "http://dbpedia.org/resource/Google"
+      },
+      "count": 12
+    },
+    {
+      "type": "Company",
+      "text": "Alibaba Cloud",
+      "relevance": 0.371616,
+      "count": 9
+    },
+    {
+      "type": "Company",
+      "text": "alibaba group",
+      "relevance": 0.344136,
+      "disambiguation": {
+        "subtype": [],
+        "name": "Alibaba Group",
+        "dbpedia_resource": "http://dbpedia.org/resource/Alibaba_Group"
+      },
+      "count": 8
+    },
+    {
+      "type": "Location",
+      "text": "Flipkart",
+      "relevance": 0.320755,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 7
+    },
+    {
+      "type": "Location",
+      "text": "India",
+      "relevance": 0.315886,
+      "disambiguation": {
+        "subtype": [
+          "HumanLanguage",
+          "Region",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "India",
+        "dbpedia_resource": "http://dbpedia.org/resource/India"
+      },
+      "count": 10
+    },
+    {
+      "type": "Location",
+      "text": "china",
+      "relevance": 0.30863,
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 6
+    },
+    {
+      "type": "Company",
+      "text": "walmart",
+      "relevance": 0.297415,
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Ann Johnson",
+      "relevance": 0.283638,
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Etsy",
+      "relevance": 0.272146,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Mumbai",
+      "relevance": 0.268236,
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision",
+          "IndianCity",
+          "MilitaryPost",
+          "City"
+        ],
+        "name": "Mumbai",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mumbai"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "jay whitehead",
+      "relevance": 0.268132,
+      "disambiguation": {
+        "subtype": [],
+        "name": "Jay Whitehead",
+        "dbpedia_resource": "http://dbpedia.org/resource/Jay_Whitehead"
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Amazon Web Services",
+      "relevance": 0.260154,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Simon Hu Xiaoming",
+      "relevance": 0.259225,
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "san francisco",
+      "relevance": 0.255306,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Company",
+      "text": "Amazon India",
+      "relevance": 0.25388,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "america",
+      "relevance": 0.253078,
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Vaetas",
+      "relevance": 0.252207,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "America\u2019s Entrepreneurs",
+      "relevance": 0.251852,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Japan",
+      "relevance": 0.250404,
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      },
+      "count": 2
+    },
+    {
+      "type": "Person",
+      "text": "Vito Santoro",
+      "relevance": 0.24942,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "accidents.\\nPlus",
+      "relevance": 0.247554,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Craigslist",
+      "relevance": 0.247382,
+      "disambiguation": {
+        "subtype": [
+          "Website"
+        ],
+        "name": "Craigslist",
+        "dbpedia_resource": "http://dbpedia.org/resource/Craigslist"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Alibaba Group Holding",
+      "relevance": 0.247283,
+      "count": 1
+    },
+    {
+      "type": "Organization",
+      "text": "Dollar Shave Club",
+      "relevance": 0.24598,
+      "disambiguation": {
+        "subtype": [],
+        "name": "Dollar Shave Club",
+        "dbpedia_resource": "http://dbpedia.org/resource/Dollar_Shave_Club"
+      },
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Charleston",
+      "relevance": 0.245604,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Charleston, South Carolina",
+        "dbpedia_resource": "http://dbpedia.org/resource/Charleston,_South_Carolina"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Mantry",
+      "relevance": 0.24336,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Mantry",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mantry"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Mybooklandia",
+      "relevance": 0.236772,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "S.C.",
+      "relevance": 0.235049,
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "South China Morning Post",
+      "relevance": 0.234208,
+      "disambiguation": {
+        "subtype": [
+          "Organization",
+          "Company",
+          "Newspaper"
+        ],
+        "name": "South China Morning Post",
+        "dbpedia_resource": "http://dbpedia.org/resource/South_China_Morning_Post"
+      },
+      "count": 3
+    },
+    {
+      "type": "Location",
+      "text": "Phoenix",
+      "relevance": 0.233272,
+      "disambiguation": {
+        "subtype": [
+          "PlaceWithNeighborhoods",
+          "City"
+        ],
+        "name": "Phoenix, Arizona",
+        "dbpedia_resource": "http://dbpedia.org/resource/Phoenix,_Arizona"
+      },
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "LeagueNetwork.com",
+      "relevance": 0.230589,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Pearson",
+      "relevance": 0.230188,
+      "count": 1
+    },
+    {
+      "type": "Company",
+      "text": "Craft Beer Club",
+      "relevance": 0.229646,
+      "count": 2
+    },
+    {
+      "type": "JobTitle",
+      "text": "CEO",
+      "relevance": 0.229638,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Ellen Purchase.\\nDorez Douglas",
+      "relevance": 0.228339,
+      "count": 1
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Personal Finance Archives",
+      "relevance": 0.228141,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Douglas McQuilken",
+      "relevance": 0.228095,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Marc Whitten",
+      "relevance": 0.226543,
+      "count": 2
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}
